@@ -1,0 +1,22 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "fake-server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IdaniaGF/e-commerce-alura.git"
+  },
+  "author": "Idania Guerrero",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "bugs": {
+    "url": "https://github.com/IdaniaGF/e-commerce-alura/issues"
+  },
+  "homepage": "https://github.com/IdaniaGF/e-commerce-alura#readme"
+}
